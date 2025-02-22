@@ -12,3 +12,13 @@ Restaurant Information: Users can check detailed information about various resta
 This project offers hands-on experience with the MERN stack, comprising MongoDB for database management, Express.js for backend server development, React.js for building dynamic user interfaces, and Node.js as the server-side runtime environment. By completing this project, you will gain valuable skills in full-stack development, user experience design, and implementing secure, real-time web applications.
 
 ![image](https://github.com/user-attachments/assets/2a50879a-acd8-479e-a48a-161f22e319e6)
+This is Full stack Restaurant app using NextJS(a production ready framework for ReactJS), NodeJS, ExpressJS, MongoDB and TailwindCSS. I have created my own server using NodeJS and ExpressJS and MongoDB(noSQL database) as databse to store the information.
+
+Tools used to build this project
+NextJS (a production ready framework for ReactJS)
+NodeJS
+ExpressJS
+MongoDB Atlas
+TailwindCSS
+Material UI
+Cloudinary (to host images)
